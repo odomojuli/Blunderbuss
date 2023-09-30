@@ -1,0 +1,4 @@
+numpy
+prettytable
+memory_profiler
+psutil
